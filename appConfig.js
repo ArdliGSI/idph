@@ -1,10 +1,10 @@
 module.exports = {
-  title: "Coloring Me",
-  tagline: "Coloring Me Free Coloring Page",
-  description: "Coloring Me Free Coloring Pag.",
-  keywords: "coloring,coloringkids,agc,cdom blog",
-  author: "Coloringme.biz.id",
-  favicon: "https://pugjs.org/images/favicon.ico",
+  title: "Health Fit",
+  tagline: "Stay Fit and Healthy Life",
+  description: "Stay Fit, Health with Diet and Life Style.",
+  keywords: "health fit md, tully health center radiology, health, life style, diet, fitness, covenant health plainview, Disease",
+  author: "idph.live",
+  favicon: "https://dph.illinois.gov/content/dam/soi/en/web/idph/images/graphics/february/idph-blue-heart-health.png",
   imageCount: 20,
-  removeBadWords: "porn,nude,sex",
+  removeBadWords: "porn,nude,sex, anal",
 };
